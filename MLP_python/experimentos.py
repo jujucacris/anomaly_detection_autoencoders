@@ -18,7 +18,7 @@ def executar_experimentos(tipo_experimentos):
                 10,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
                 10,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-amostra.csv',  # nome_dataset
+                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
@@ -30,7 +30,7 @@ def executar_experimentos(tipo_experimentos):
                 50,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
                 10,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-amostra.csv',  # nome_dataset
+                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
@@ -42,7 +42,7 @@ def executar_experimentos(tipo_experimentos):
                 10,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
                 5,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-amostra.csv',  # nome_dataset
+                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
@@ -54,7 +54,7 @@ def executar_experimentos(tipo_experimentos):
                 50,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
                 5,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-amostra.csv',  # nome_dataset
+                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
