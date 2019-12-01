@@ -15,10 +15,10 @@ def executar_experimentos(tipo_experimentos):
                 'teste toy 1',
                 'tan',  # funcao_f # funcao de ativacao da camada de entrada
                 'sig',  # funcao_g  # funcao de ativacao da camada de saida
-                100,  # nitmax # numero de iterações maximo(epocas)
+                10,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
                 10,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
+                'p2p-0.3-1-amostra.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
@@ -27,10 +27,10 @@ def executar_experimentos(tipo_experimentos):
                 'teste toy 2',
                 'tan',  # funcao_f # funcao de ativacao da camada de entrada
                 'sig',  # funcao_g  # funcao de ativacao da camada de saida
-                500,  # nitmax # numero de iterações maximo(epocas)
+                50,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
-                50,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
+                10,  # no # numero de nos da camada oculta
+                'p2p-0.3-1-amostra.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
@@ -39,10 +39,10 @@ def executar_experimentos(tipo_experimentos):
                 'teste toy 1',
                 'sig',  # funcao_f # funcao de ativacao da camada de entrada
                 'sig',  # funcao_g  # funcao de ativacao da camada de saida
-                100,  # nitmax # numero de iterações maximo(epocas)
+                10,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
-                10,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
+                5,  # no # numero de nos da camada oculta
+                'p2p-0.3-1-amostra.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
@@ -51,10 +51,10 @@ def executar_experimentos(tipo_experimentos):
                 'teste toy 1',
                 'sig',  # funcao_f # funcao de ativacao da camada de entrada
                 'sig',  # funcao_g  # funcao de ativacao da camada de saida
-                500,  # nitmax # numero de iterações maximo(epocas)
+                50,  # nitmax # numero de iterações maximo(epocas)
                 0.8,  # alfa  # taxa de aprendizado
-                50,  # no # numero de nos da camada oculta
-                'p2p-0.3-1-usuarios-nolle.csv',  # nome_dataset
+                5,  # no # numero de nos da camada oculta
+                'p2p-0.3-1-amostra.csv',  # nome_dataset
                 5,  # k # iteracoes do crossvalidation
                 'autoencoder_proprio'
             ],
