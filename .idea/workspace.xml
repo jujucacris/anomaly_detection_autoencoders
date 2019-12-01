@@ -2,9 +2,103 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e8c5761-430d-4331-837e-6d77fe0471f8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas_roc.csv" beforeDir="false" afterPath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas_roc.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter0_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter0_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter0_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter1_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter1_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter1_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter2_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter2_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter2_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter3_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter3_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter3_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter4_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter4_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp1_Iter4_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter0_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter0_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter0_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter1_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter1_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter1_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter2_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter2_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter2_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter3_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter3_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter3_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter4_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter4_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp2_Iter4_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter0_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter0_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter0_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter1_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter1_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter1_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter2_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter2_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter2_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter3_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter3_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter3_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter4_EQMs.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter4_Y.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/pos_processamento/entradas/Exp3_Iter4_Yd.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/Exp1_EQMs_nit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/Exp2_EQMs_nit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/Exp3_EQMs_nit.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_curva_precision_recall_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_curva_precision_recall_p2p-0.3-1-usuarios-nolle.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_curva_roc_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_curva_roc_p2p-0.3-1-usuarios-nolle.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_evolucao_EQM_p2p-0.3-1-amostra.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_evolucao_EQM_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_evolucao_EQM_p2p-0.3-1-usuarios-nolle.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_nao_normalizada_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_nao_normalizada_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_nao_normalizada_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_nao_normalizada_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_nao_normalizada_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_normalizada_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_normalizada_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_normalizada_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_normalizada_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matriz_confusao_normalizada_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matrizes_saida_p2p-0.3-1-amostra.csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matrizes_saida_p2p-0.3-1-amostra0.csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp1_matrizes_saida_p2p-0.3-1-usuarios-nolle.csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_curva_precision_recall_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_curva_roc_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_evolucao_EQM_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_nao_normalizada_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_nao_normalizada_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_nao_normalizada_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_nao_normalizada_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_nao_normalizada_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_normalizada_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_normalizada_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_normalizada_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_normalizada_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matriz_confusao_normalizada_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp2_matrizes_saida_p2p-0.3-1-amostra0.csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_curva_precision_recall_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_curva_roc_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_evolucao_EQM_p2p-0.3-1-amostra0.csv.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_nao_normalizada_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_nao_normalizada_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_nao_normalizada_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_nao_normalizada_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_nao_normalizada_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_normalizada_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_normalizada_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_normalizada_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_normalizada_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matriz_confusao_normalizada_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/exp3_matrizes_saida_p2p-0.3-1-amostra0.csv.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MLP_python/resultados/experimentos_resumo.csv" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />

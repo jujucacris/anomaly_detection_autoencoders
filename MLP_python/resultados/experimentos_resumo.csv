@@ -1,2 +1,0 @@
-nro_experimento,nome_experimento,funcao_f,funcao_g,nitmax,alfa,no,nome_dataset,k_cv,tipo_experimento,EQMmean
-1,teste toy 1,tan,sig,10,0.8,10,p2p-0.3-1-amostra0.csv,5,autoencoder_proprio,140.7520648667402
